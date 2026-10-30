@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "cohort_id": "pilot-mc-1.21.5-v1",
+  "registry_created_at": "2026-09-16T00:38:00Z",
+  "seed_generation": {
+    "algorithm": "OS CSPRNG via Python secrets.randbits(64)",
+    "post_selection": "reject zero and duplicate signed 64-bit values only",
+    "worlds_inspected_before_split": false
+  },
+  "commitment_scheme": "mcstego-test-seed-commitment-v1",
+  "train": [
+    {"id": "train-001", "seed": -4171702994442230492},
+    {"id": "train-002", "seed": -4244732255973889592},
+    {"id": "train-003", "seed": 5871817755991352232},
+    {"id": "train-004", "seed": 3763648594144268527},
+    {"id": "train-005", "seed": -8288151885998309457},
+    {"id": "train-006", "seed": -2696820634005707646},
+    {"id": "train-007", "seed": 1009465818856911808},
+    {"id": "train-008", "seed": -544782855301894471}
+  ],
+  "validation": [
+    {"id": "validation-001", "seed": -2197770681336070912},
+    {"id": "validation-002", "seed": -442295700840578774}
+  ],
+  "test": [
+    {
+      "id": "test-001",
+      "commitment_sha256": "26a5ce6753714d13c493a4ee0d50521815af0e048c0c789c2959ea2fa0b51764"
+    },
+    {
+      "id": "test-002",
+      "commitment_sha256": "90693df1a583fc0ba8aefe35f6fc100a6e5eb7476c8418414a405d2a7256da4e"
+    },
+    {
+      "id": "test-003",
+      "commitment_sha256": "631339b051377e4c3e680243fc8f1591dc935f2cd4f76c2a51aeb1837b7046c5"
+    }
+  ]
+}

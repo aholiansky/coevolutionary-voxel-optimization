@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+
+# Local experiment data and secrets
+runs/
+worlds/
+runtime/
+private/
+config/seeds.private.json
+*test-seeds-private*.json
+*.pem
+minecraft_bitstream.txt
+ore_distribution.json
+injection_log.json
+
+# Zamrożone dane wejściowe B0 są wersjonowane celowo
+!data/legacy/ore_distribution.json

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "status": "legacy/suspect-provenance",
+  "source_world_available": false,
+  "source_world_seed": null,
+  "minecraft_version": null,
+  "analysis_script": "legacy/analyzer.py",
+  "configured_scan_radius_chunks": 50,
+  "configured_grid_chunk_count": 10000,
+  "observed_chunk_equivalent_per_layer": 9489,
+  "height_range": {
+    "min_y": -64,
+    "max_y": 319,
+    "layers": 384
+  },
+  "totals": {
+    "stone": 208798449,
+    "ore": 471281,
+    "overall_ore_prevalence": 0.0022520266070014043
+  },
+  "files": {
+    "ore_distribution.json": {
+      "sha256": "a35a7636d270138e9222d170467a2abb951cd1f96a76ae4e033afbd4f58002a3"
+    },
+    "ore_stats_raw.csv": {
+      "sha256": "39743c820569b81bc1a5f16f7840f6710bb763ce3de52cb010ed6698817d51bb"
+    }
+  },
+  "allowed_use": "B0 compatibility and regression testing",
+  "disallowed_interpretation": "ground-truth natural ore distribution for new experiments"
+}
+

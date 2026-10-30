@@ -1,0 +1,1538 @@
+{
+    "-64": {
+        "prob": 0.002895,
+        "stone_density": 0.104698
+    },
+    "-63": {
+        "prob": 0.002895,
+        "stone_density": 0.209186
+    },
+    "-62": {
+        "prob": 0.002895,
+        "stone_density": 0.348402
+    },
+    "-61": {
+        "prob": 0.002895,
+        "stone_density": 0.522023
+    },
+    "-60": {
+        "prob": 0.0,
+        "stone_density": 0.659932
+    },
+    "-59": {
+        "prob": 0.0,
+        "stone_density": 0.762065
+    },
+    "-58": {
+        "prob": 0.0,
+        "stone_density": 0.828277
+    },
+    "-57": {
+        "prob": 0.0,
+        "stone_density": 0.859353
+    },
+    "-56": {
+        "prob": 0.0,
+        "stone_density": 0.855397
+    },
+    "-55": {
+        "prob": 0.0,
+        "stone_density": 0.851492
+    },
+    "-54": {
+        "prob": 0.0,
+        "stone_density": 0.84799
+    },
+    "-53": {
+        "prob": 0.0,
+        "stone_density": 0.844668
+    },
+    "-52": {
+        "prob": 0.0,
+        "stone_density": 0.840819
+    },
+    "-51": {
+        "prob": 0.0,
+        "stone_density": 0.83645
+    },
+    "-50": {
+        "prob": 0.0,
+        "stone_density": 0.831648
+    },
+    "-49": {
+        "prob": 0.0,
+        "stone_density": 0.827376
+    },
+    "-48": {
+        "prob": 0.0,
+        "stone_density": 0.823826
+    },
+    "-47": {
+        "prob": 0.0,
+        "stone_density": 0.820833
+    },
+    "-46": {
+        "prob": 0.0,
+        "stone_density": 0.818333
+    },
+    "-45": {
+        "prob": 0.0,
+        "stone_density": 0.816092
+    },
+    "-44": {
+        "prob": 0.0,
+        "stone_density": 0.8128
+    },
+    "-43": {
+        "prob": 0.0,
+        "stone_density": 0.808116
+    },
+    "-42": {
+        "prob": 0.0,
+        "stone_density": 0.802257
+    },
+    "-41": {
+        "prob": 0.0,
+        "stone_density": 0.797563
+    },
+    "-40": {
+        "prob": 0.0,
+        "stone_density": 0.793835
+    },
+    "-39": {
+        "prob": 0.0,
+        "stone_density": 0.791375
+    },
+    "-38": {
+        "prob": 0.0,
+        "stone_density": 0.790225
+    },
+    "-37": {
+        "prob": 0.0,
+        "stone_density": 0.790232
+    },
+    "-36": {
+        "prob": 0.0,
+        "stone_density": 0.789015
+    },
+    "-35": {
+        "prob": 0.0,
+        "stone_density": 0.78658
+    },
+    "-34": {
+        "prob": 0.0,
+        "stone_density": 0.782529
+    },
+    "-33": {
+        "prob": 0.0,
+        "stone_density": 0.778858
+    },
+    "-32": {
+        "prob": 0.0,
+        "stone_density": 0.775744
+    },
+    "-31": {
+        "prob": 0.0,
+        "stone_density": 0.773422
+    },
+    "-30": {
+        "prob": 0.0,
+        "stone_density": 0.771909
+    },
+    "-29": {
+        "prob": 0.0,
+        "stone_density": 0.771659
+    },
+    "-28": {
+        "prob": 0.0,
+        "stone_density": 0.770576
+    },
+    "-27": {
+        "prob": 0.0,
+        "stone_density": 0.76816
+    },
+    "-26": {
+        "prob": 0.0,
+        "stone_density": 0.764069
+    },
+    "-25": {
+        "prob": 0.0,
+        "stone_density": 0.760744
+    },
+    "-24": {
+        "prob": 0.0,
+        "stone_density": 0.758037
+    },
+    "-23": {
+        "prob": 0.0,
+        "stone_density": 0.756308
+    },
+    "-22": {
+        "prob": 0.0,
+        "stone_density": 0.755703
+    },
+    "-21": {
+        "prob": 0.0,
+        "stone_density": 0.756874
+    },
+    "-20": {
+        "prob": 0.0,
+        "stone_density": 0.757505
+    },
+    "-19": {
+        "prob": 0.0,
+        "stone_density": 0.757373
+    },
+    "-18": {
+        "prob": 0.0,
+        "stone_density": 0.755716
+    },
+    "-17": {
+        "prob": 0.0,
+        "stone_density": 0.754732
+    },
+    "-16": {
+        "prob": 0.0,
+        "stone_density": 0.753961
+    },
+    "-15": {
+        "prob": 0.0,
+        "stone_density": 0.753414
+    },
+    "-14": {
+        "prob": 0.0,
+        "stone_density": 0.753502
+    },
+    "-13": {
+        "prob": 0.0,
+        "stone_density": 0.754779
+    },
+    "-12": {
+        "prob": 0.0,
+        "stone_density": 0.755116
+    },
+    "-11": {
+        "prob": 0.0,
+        "stone_density": 0.754244
+    },
+    "-10": {
+        "prob": 0.0,
+        "stone_density": 0.752096
+    },
+    "-9": {
+        "prob": 0.0,
+        "stone_density": 0.75133
+    },
+    "-8": {
+        "prob": 0.0,
+        "stone_density": 0.751688
+    },
+    "-7": {
+        "prob": 0.0,
+        "stone_density": 0.753238
+    },
+    "-6": {
+        "prob": 0.0,
+        "stone_density": 0.755783
+    },
+    "-5": {
+        "prob": 2e-06,
+        "stone_density": 0.759201
+    },
+    "-4": {
+        "prob": 1.8e-05,
+        "stone_density": 0.760178
+    },
+    "-3": {
+        "prob": 6.7e-05,
+        "stone_density": 0.758973
+    },
+    "-2": {
+        "prob": 0.000154,
+        "stone_density": 0.754851
+    },
+    "-1": {
+        "prob": 0.000272,
+        "stone_density": 0.750924
+    },
+    "0": {
+        "prob": 0.000428,
+        "stone_density": 0.747006
+    },
+    "1": {
+        "prob": 0.000601,
+        "stone_density": 0.743896
+    },
+    "2": {
+        "prob": 0.000784,
+        "stone_density": 0.741746
+    },
+    "3": {
+        "prob": 0.000973,
+        "stone_density": 0.741682
+    },
+    "4": {
+        "prob": 0.001137,
+        "stone_density": 0.741325
+    },
+    "5": {
+        "prob": 0.001287,
+        "stone_density": 0.740798
+    },
+    "6": {
+        "prob": 0.001451,
+        "stone_density": 0.739681
+    },
+    "7": {
+        "prob": 0.001622,
+        "stone_density": 0.740795
+    },
+    "8": {
+        "prob": 0.001787,
+        "stone_density": 0.74269
+    },
+    "9": {
+        "prob": 0.001973,
+        "stone_density": 0.744703
+    },
+    "10": {
+        "prob": 0.002194,
+        "stone_density": 0.747081
+    },
+    "11": {
+        "prob": 0.002415,
+        "stone_density": 0.749994
+    },
+    "12": {
+        "prob": 0.002605,
+        "stone_density": 0.750626
+    },
+    "13": {
+        "prob": 0.002746,
+        "stone_density": 0.750125
+    },
+    "14": {
+        "prob": 0.002916,
+        "stone_density": 0.748743
+    },
+    "15": {
+        "prob": 0.003075,
+        "stone_density": 0.750156
+    },
+    "16": {
+        "prob": 0.003237,
+        "stone_density": 0.752849
+    },
+    "17": {
+        "prob": 0.003407,
+        "stone_density": 0.756498
+    },
+    "18": {
+        "prob": 0.003596,
+        "stone_density": 0.760994
+    },
+    "19": {
+        "prob": 0.003789,
+        "stone_density": 0.76651
+    },
+    "20": {
+        "prob": 0.00398,
+        "stone_density": 0.769536
+    },
+    "21": {
+        "prob": 0.004166,
+        "stone_density": 0.771542
+    },
+    "22": {
+        "prob": 0.004356,
+        "stone_density": 0.772355
+    },
+    "23": {
+        "prob": 0.004566,
+        "stone_density": 0.773905
+    },
+    "24": {
+        "prob": 0.004746,
+        "stone_density": 0.775524
+    },
+    "25": {
+        "prob": 0.004923,
+        "stone_density": 0.777021
+    },
+    "26": {
+        "prob": 0.005104,
+        "stone_density": 0.778554
+    },
+    "27": {
+        "prob": 0.005259,
+        "stone_density": 0.780669
+    },
+    "28": {
+        "prob": 0.005385,
+        "stone_density": 0.781667
+    },
+    "29": {
+        "prob": 0.00556,
+        "stone_density": 0.782024
+    },
+    "30": {
+        "prob": 0.00577,
+        "stone_density": 0.781314
+    },
+    "31": {
+        "prob": 0.005942,
+        "stone_density": 0.78063
+    },
+    "32": {
+        "prob": 0.006072,
+        "stone_density": 0.777086
+    },
+    "33": {
+        "prob": 0.00627,
+        "stone_density": 0.768764
+    },
+    "34": {
+        "prob": 0.00646,
+        "stone_density": 0.753717
+    },
+    "35": {
+        "prob": 0.006578,
+        "stone_density": 0.730602
+    },
+    "36": {
+        "prob": 0.006683,
+        "stone_density": 0.699348
+    },
+    "37": {
+        "prob": 0.006875,
+        "stone_density": 0.664429
+    },
+    "38": {
+        "prob": 0.007011,
+        "stone_density": 0.63156
+    },
+    "39": {
+        "prob": 0.007118,
+        "stone_density": 0.604033
+    },
+    "40": {
+        "prob": 0.007341,
+        "stone_density": 0.584162
+    },
+    "41": {
+        "prob": 0.007597,
+        "stone_density": 0.571072
+    },
+    "42": {
+        "prob": 0.007818,
+        "stone_density": 0.563083
+    },
+    "43": {
+        "prob": 0.008033,
+        "stone_density": 0.554679
+    },
+    "44": {
+        "prob": 0.008235,
+        "stone_density": 0.538489
+    },
+    "45": {
+        "prob": 0.008414,
+        "stone_density": 0.50532
+    },
+    "46": {
+        "prob": 0.008678,
+        "stone_density": 0.465311
+    },
+    "47": {
+        "prob": 0.008957,
+        "stone_density": 0.419572
+    },
+    "48": {
+        "prob": 0.009258,
+        "stone_density": 0.368451
+    },
+    "49": {
+        "prob": 0.009509,
+        "stone_density": 0.318889
+    },
+    "50": {
+        "prob": 0.00968,
+        "stone_density": 0.280797
+    },
+    "51": {
+        "prob": 0.009819,
+        "stone_density": 0.247121
+    },
+    "52": {
+        "prob": 0.009951,
+        "stone_density": 0.218797
+    },
+    "53": {
+        "prob": 0.009985,
+        "stone_density": 0.197778
+    },
+    "54": {
+        "prob": 0.010102,
+        "stone_density": 0.183361
+    },
+    "55": {
+        "prob": 0.010213,
+        "stone_density": 0.175014
+    },
+    "56": {
+        "prob": 0.010304,
+        "stone_density": 0.168773
+    },
+    "57": {
+        "prob": 0.010505,
+        "stone_density": 0.162042
+    },
+    "58": {
+        "prob": 0.010885,
+        "stone_density": 0.153539
+    },
+    "59": {
+        "prob": 0.011302,
+        "stone_density": 0.143352
+    },
+    "60": {
+        "prob": 0.011643,
+        "stone_density": 0.131636
+    },
+    "61": {
+        "prob": 0.011951,
+        "stone_density": 0.119585
+    },
+    "62": {
+        "prob": 0.012182,
+        "stone_density": 0.107962
+    },
+    "63": {
+        "prob": 0.012279,
+        "stone_density": 0.097687
+    },
+    "64": {
+        "prob": 0.012171,
+        "stone_density": 0.089045
+    },
+    "65": {
+        "prob": 0.012013,
+        "stone_density": 0.081176
+    },
+    "66": {
+        "prob": 0.011906,
+        "stone_density": 0.073289
+    },
+    "67": {
+        "prob": 0.011899,
+        "stone_density": 0.065222
+    },
+    "68": {
+        "prob": 0.011767,
+        "stone_density": 0.057419
+    },
+    "69": {
+        "prob": 0.011696,
+        "stone_density": 0.049778
+    },
+    "70": {
+        "prob": 0.012015,
+        "stone_density": 0.042411
+    },
+    "71": {
+        "prob": 0.012289,
+        "stone_density": 0.036179
+    },
+    "72": {
+        "prob": 0.01212,
+        "stone_density": 0.031266
+    },
+    "73": {
+        "prob": 0.012195,
+        "stone_density": 0.02706
+    },
+    "74": {
+        "prob": 0.012457,
+        "stone_density": 0.0235
+    },
+    "75": {
+        "prob": 0.012796,
+        "stone_density": 0.020782
+    },
+    "76": {
+        "prob": 0.013489,
+        "stone_density": 0.018625
+    },
+    "77": {
+        "prob": 0.014432,
+        "stone_density": 0.016796
+    },
+    "78": {
+        "prob": 0.015077,
+        "stone_density": 0.015209
+    },
+    "79": {
+        "prob": 0.015616,
+        "stone_density": 0.013846
+    },
+    "80": {
+        "prob": 0.016088,
+        "stone_density": 0.012553
+    },
+    "81": {
+        "prob": 0.016147,
+        "stone_density": 0.011205
+    },
+    "82": {
+        "prob": 0.016075,
+        "stone_density": 0.009946
+    },
+    "83": {
+        "prob": 0.015604,
+        "stone_density": 0.00886
+    },
+    "84": {
+        "prob": 0.01492,
+        "stone_density": 0.007988
+    },
+    "85": {
+        "prob": 0.014315,
+        "stone_density": 0.007336
+    },
+    "86": {
+        "prob": 0.014418,
+        "stone_density": 0.006886
+    },
+    "87": {
+        "prob": 0.014796,
+        "stone_density": 0.006549
+    },
+    "88": {
+        "prob": 0.015645,
+        "stone_density": 0.006231
+    },
+    "89": {
+        "prob": 0.017424,
+        "stone_density": 0.005868
+    },
+    "90": {
+        "prob": 0.018774,
+        "stone_density": 0.005446
+    },
+    "91": {
+        "prob": 0.019741,
+        "stone_density": 0.005001
+    },
+    "92": {
+        "prob": 0.020804,
+        "stone_density": 0.004579
+    },
+    "93": {
+        "prob": 0.020896,
+        "stone_density": 0.004219
+    },
+    "94": {
+        "prob": 0.019573,
+        "stone_density": 0.003927
+    },
+    "95": {
+        "prob": 0.018223,
+        "stone_density": 0.003719
+    },
+    "96": {
+        "prob": 0.017502,
+        "stone_density": 0.003543
+    },
+    "97": {
+        "prob": 0.01621,
+        "stone_density": 0.003371
+    },
+    "98": {
+        "prob": 0.014934,
+        "stone_density": 0.003184
+    },
+    "99": {
+        "prob": 0.014957,
+        "stone_density": 0.002996
+    },
+    "100": {
+        "prob": 0.015105,
+        "stone_density": 0.002821
+    },
+    "101": {
+        "prob": 0.015539,
+        "stone_density": 0.002671
+    },
+    "102": {
+        "prob": 0.016607,
+        "stone_density": 0.002542
+    },
+    "103": {
+        "prob": 0.016918,
+        "stone_density": 0.00241
+    },
+    "104": {
+        "prob": 0.017609,
+        "stone_density": 0.002262
+    },
+    "105": {
+        "prob": 0.019293,
+        "stone_density": 0.002091
+    },
+    "106": {
+        "prob": 0.019297,
+        "stone_density": 0.0019
+    },
+    "107": {
+        "prob": 0.018505,
+        "stone_density": 0.001696
+    },
+    "108": {
+        "prob": 0.021578,
+        "stone_density": 0.001502
+    },
+    "109": {
+        "prob": 0.023825,
+        "stone_density": 0.001313
+    },
+    "110": {
+        "prob": 0.023959,
+        "stone_density": 0.001137
+    },
+    "111": {
+        "prob": 0.020984,
+        "stone_density": 0.000969
+    },
+    "112": {
+        "prob": 0.017371,
+        "stone_density": 0.000797
+    },
+    "113": {
+        "prob": 0.025531,
+        "stone_density": 0.000576
+    },
+    "114": {
+        "prob": 0.019704,
+        "stone_density": 0.000384
+    },
+    "115": {
+        "prob": 0.014964,
+        "stone_density": 0.000224
+    },
+    "116": {
+        "prob": 0.013793,
+        "stone_density": 9.7e-05
+    },
+    "117": {
+        "prob": 0.013793,
+        "stone_density": 1e-05
+    },
+    "118": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "119": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "120": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "121": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "122": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "123": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "124": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "125": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "126": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "127": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "128": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "129": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "130": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "131": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "132": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "133": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "134": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "135": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "136": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "137": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "138": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "139": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "140": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "141": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "142": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "143": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "144": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "145": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "146": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "147": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "148": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "149": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "150": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "151": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "152": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "153": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "154": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "155": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "156": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "157": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "158": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "159": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "160": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "161": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "162": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "163": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "164": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "165": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "166": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "167": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "168": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "169": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "170": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "171": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "172": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "173": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "174": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "175": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "176": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "177": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "178": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "179": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "180": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "181": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "182": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "183": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "184": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "185": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "186": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "187": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "188": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "189": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "190": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "191": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "192": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "193": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "194": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "195": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "196": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "197": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "198": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "199": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "200": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "201": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "202": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "203": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "204": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "205": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "206": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "207": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "208": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "209": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "210": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "211": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "212": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "213": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "214": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "215": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "216": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "217": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "218": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "219": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "220": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "221": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "222": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "223": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "224": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "225": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "226": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "227": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "228": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "229": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "230": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "231": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "232": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "233": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "234": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "235": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "236": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "237": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "238": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "239": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "240": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "241": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "242": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "243": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "244": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "245": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "246": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "247": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "248": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "249": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "250": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "251": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "252": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "253": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "254": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "255": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "256": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "257": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "258": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "259": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "260": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "261": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "262": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "263": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "264": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "265": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "266": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "267": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "268": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "269": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "270": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "271": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "272": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "273": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "274": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "275": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "276": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "277": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "278": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "279": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "280": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "281": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "282": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "283": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "284": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "285": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "286": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "287": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "288": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "289": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "290": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "291": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "292": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "293": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "294": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "295": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "296": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "297": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "298": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "299": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "300": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "301": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "302": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "303": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "304": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "305": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "306": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "307": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "308": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "309": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "310": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "311": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "312": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "313": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "314": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "315": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "316": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "317": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "318": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    },
+    "319": {
+        "prob": 0.0,
+        "stone_density": 0.0
+    }
+}
